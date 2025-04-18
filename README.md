@@ -31,13 +31,13 @@ A fully functional blogging web application built using **ASP.NET Core MVC** for
 - Exception handling and error feedback
 
 
-## 🎮 How to Run the Project
-
-### 1. Clone the Repo
-```bash
+🎮 How to Run the Project
+1. Clone the Repo
 git clone https://github.com/abhayrana5492/BloggingPlatform-FullStack.git
 cd BloggingPlatform-FullStack
 
-**### 2. Update the app setting.json**
-**### 3. Run the App**
-   - dotnet run
+2. Update the appsettings.json
+Set your API base URL or any required configuration.
+
+3. Run the App
+dotnet run
