@@ -10,9 +10,9 @@ A fully functional blogging web application built using **ASP.NET Core MVC** for
 |-------------|-----------------------------------------------|
 | Frontend    | ASP.NET Core MVC (Razor Views), Bootstrap, Custom CSS |
 | Backend     | ASP.NET Core Web API                          |
-| Language    | C#                                             |
-| Database    | (Add here if using SQL Server, SQLite, etc.)  |
-| Tools       | Visual Studio, Git, Postman                   |
+| Language    | C#                                            |
+| Database    | SQL Server                                    |
+| Tools       | Visual Studio, Git, Swagger                   |
 
 ---
 
