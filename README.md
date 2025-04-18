@@ -32,11 +32,11 @@ A fully functional blogging web application built using **ASP.NET Core MVC** for
 
 
 🎮 How to Run the Project
-1. Clone the Repo
+1. Clone the Repo:
 git clone https://github.com/abhayrana5492/BloggingPlatform-FullStack.git
 
-2. Update the appsettings.json
+2. Update the appsettings.json:
 Set your API base URL or any required configuration.
 
-3. Run the App
+3. Run the App:
 dotnet run
