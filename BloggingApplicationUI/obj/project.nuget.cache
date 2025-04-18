@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yhc0u1di56A=",
+  "success": true,
+  "projectFilePath": "/Users/abhayrana/Downloads/BloggingApplicationAPI/BloggingApplicationUI/BloggingApplicationUI.csproj",
+  "expectedPackageFiles": [
+    "/Users/abhayrana/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

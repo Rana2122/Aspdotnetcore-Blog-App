@@ -1,0 +1,30 @@
+﻿@model BloggingApplicationUI.Models.Post
+
+<div class="container mt-5">
+    <div class="text-center mb-4">
+        <h2 class="text-primary font-weight-bold">Create New Post</h2>
+        <p class="text-muted">Fill in the details below to create a new post</p>
+    </div>
+
+    <div class="card shadow-lg border-0 rounded-lg">
+        <div class="card-body">
+            <form asp-action="Create" method="post">
+                <div class="form-group mb-4">
+                    <label for="Title" class="form-label">Title</label>
+                    <input type="text" class="form-control form-control-lg" id="Title" name="Title" required placeholder="Enter your post title" />
+                </div>
+
+                <div class="form-group mb-4">
+                    <label for="Content" class="form-label">Content</label>
+                    <textarea class="form-control form-control-lg" id="Content" name="Content" rows="5" required placeholder="Write your content here..."></textarea>
+                </div>
+
+                <div class="text-center mt-4">
+                    <button type="submit" class="btn btn-success btn-lg px-5 py-3 shadow-lg rounded-pill">
+                        <i class="fas fa-plus-circle mr-2"></i> Create Post
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

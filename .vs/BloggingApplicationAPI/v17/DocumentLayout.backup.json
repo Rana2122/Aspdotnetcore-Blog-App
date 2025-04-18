@@ -1,0 +1,654 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\services\\postservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\services\\postservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\services\\iservices\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\services\\iservices\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\services\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\services\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\blogginghttpclient\\bloggingapphttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\blogginghttpclient\\bloggingapphttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\migrations\\20241215100618_intial_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\migrations\\20241215100618_intial_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\bloggingapplicationui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\bloggingapplicationui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\bloggingapplicationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\bloggingapplicationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\bloggingapplicationapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\bloggingapplicationapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\views\\post\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\views\\post\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationui\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C3A3C5-3F5A-4921-A8DA-4E3BFCB3EDAF}|BloggingApplicationUI\\BloggingApplicationUI.csproj|solutionrelative:bloggingapplicationui\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|c:\\users\\inshagup\\source\\repos\\bloggingapplicationapi\\bloggingapplicationapi\\migrations\\20250121093305_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D15889-158C-42DB-BD32-E585C7272374}|BloggingApplicationAPI\\BloggingApplicationAPI.csproj|solutionrelative:bloggingapplicationapi\\migrations\\20250121093305_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "BloggingApplicationUI\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T10:05:45.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Views\\Post\\Index.cshtml",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "BloggingApplicationUI\\Views\\Post\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T08:53:54.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "BloggingApplicationAPI\\Services\\UserService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:36:03.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Controllers\\PostController.cs",
+              "RelativeToolTip": "BloggingApplicationUI\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:50:03.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "BloggingApplicationAPI\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:27:06.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Services\\IServices\\IPostService.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\Services\\IServices\\IPostService.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Services\\IServices\\IPostService.cs",
+              "RelativeToolTip": "BloggingApplicationAPI\\Services\\IServices\\IPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:21:19.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostService .cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Services\\PostService .cs",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\Services\\PostService .cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Services\\PostService .cs",
+              "RelativeToolTip": "BloggingApplicationAPI\\Services\\PostService .cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:22:04.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BloggingApplicationAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:57:12.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BloggingApplicationUI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAcwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:05:20.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BloggingApplicationUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T08:58:53.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BloggingApplicationUI\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T10:53:40.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "BloggingApplicationUI\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T10:07:03.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Program.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Program.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Program.cs",
+              "RelativeToolTip": "BloggingApplicationUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:48:56.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Models\\User.cs",
+              "RelativeToolTip": "BloggingApplicationAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:31:07.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250121093305_AddUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Migrations\\20250121093305_AddUserTable.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\Migrations\\20250121093305_AddUserTable.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Migrations\\20250121093305_AddUserTable.cs",
+              "RelativeToolTip": "BloggingApplicationAPI\\Migrations\\20250121093305_AddUserTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:33:05.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Models\\Login.cs",
+              "RelativeToolTip": "BloggingApplicationAPI\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:33:37.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_UserLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Views\\Shared\\_UserLayout.cshtml",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeToolTip": "BloggingApplicationUI\\Views\\Shared\\_UserLayout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T11:14:31.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Models\\Register.cs",
+              "RelativeToolTip": "BloggingApplicationAPI\\Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:34:12.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Services\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\Services\\IServices\\IUserService.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Services\\IServices\\IUserService.cs",
+              "RelativeToolTip": "BloggingApplicationAPI\\Services\\IServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:35:07.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Models\\LoginModel.cs",
+              "RelativeToolTip": "BloggingApplicationUI\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:04:35.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "BloggingApplicationUI\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:03:56.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BloggingAppHttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\BloggingHttpClient\\BloggingAppHttpClient.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\BloggingHttpClient\\BloggingAppHttpClient.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\BloggingHttpClient\\BloggingAppHttpClient.cs",
+              "RelativeToolTip": "BloggingApplicationUI\\BloggingHttpClient\\BloggingAppHttpClient.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:46:47.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Program.cs",
+              "RelativeToolTip": "BloggingApplicationAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:14:02.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BloggingApplicationAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:10:49.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Models\\Post.cs",
+              "RelativeToolTip": "BloggingApplicationAPI\\Models\\Post.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:00:38.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Models\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Models\\AppSettings.cs",
+              "RelativeToolTip": "BloggingApplicationUI\\Models\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:39:44.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\appsettings.json",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\appsettings.json",
+              "RelativeToolTip": "BloggingApplicationUI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T08:37:14.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BloggingApplicationAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:37:28.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\appsettings.json",
+              "RelativeToolTip": "BloggingApplicationAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T08:09:10.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BloggingApplicationUI.csproj",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\BloggingApplicationUI.csproj",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\BloggingApplicationUI.csproj",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\BloggingApplicationUI.csproj",
+              "RelativeToolTip": "BloggingApplicationUI\\BloggingApplicationUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-15T13:05:22.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\Post\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Views\\Post\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\Post\\Edit.cshtml",
+              "RelativeToolTip": "BloggingApplicationUI\\Views\\Post\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T08:56:43.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241215100618_Intial_create.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Migrations\\20241215100618_Intial_create.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\Migrations\\20241215100618_Intial_create.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\Migrations\\20241215100618_Intial_create.cs",
+              "RelativeToolTip": "BloggingApplicationAPI\\Migrations\\20241215100618_Intial_create.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvyIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:06:18.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\Post\\Details.cshtml",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Views\\Post\\Details.cshtml",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\Post\\Details.cshtml",
+              "RelativeToolTip": "BloggingApplicationUI\\Views\\Post\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T08:54:34.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\Post\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Views\\Post\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\Post\\Delete.cshtml",
+              "RelativeToolTip": "BloggingApplicationUI\\Views\\Post\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T08:57:24.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\Post\\Create.cshtml",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Views\\Post\\Create.cshtml",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\Post\\Create.cshtml",
+              "RelativeToolTip": "BloggingApplicationUI\\Views\\Post\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T08:55:58.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BloggingApplicationAPI.http",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\BloggingApplicationAPI.http",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\BloggingApplicationAPI.http",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\BloggingApplicationAPI.http",
+              "RelativeToolTip": "BloggingApplicationAPI\\BloggingApplicationAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-15T12:22:12.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BloggingApplicationAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\BloggingApplicationAPI.csproj",
+              "RelativeDocumentMoniker": "BloggingApplicationAPI\\BloggingApplicationAPI.csproj",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationAPI\\BloggingApplicationAPI.csproj",
+              "RelativeToolTip": "BloggingApplicationAPI\\BloggingApplicationAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-15T13:05:00.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BloggingApplicationUI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T10:08:05.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "BloggingApplicationUI\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\inshagup\\source\\repos\\BloggingApplicationAPI\\BloggingApplicationUI\\Models\\Post.cs",
+              "RelativeToolTip": "BloggingApplicationUI\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:52:15.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

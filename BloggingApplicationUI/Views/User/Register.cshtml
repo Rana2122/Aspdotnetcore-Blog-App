@@ -1,0 +1,143 @@
+﻿@model BloggingApplicationUI.Models.RegisterModel
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_Userlayout";
+
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <!-- Increased column width -->
+            <div class="card shadow-lg border-0 rounded-lg register-card">
+                <div class="card-header" style="background: linear-gradient(to right, #1d2671, #c33764); color: white;">
+                    <h4 class="text-center">Create Your Account</h4>
+                </div>
+                <div class="card-body">
+                    @if (TempData["ErrorMessage"] != null)
+                    {
+                        <div class="alert alert-danger text-center">
+                            @TempData["ErrorMessage"]
+                        </div>
+                    }
+                    @if (TempData["SuccessMessage"] != null)
+                    {
+                        <div class="alert alert-success text-center">
+                            @TempData["SuccessMessage"]
+                        </div>
+                    }
+
+                    <form asp-action="Register" method="post" id="registerForm">
+                        <div class="form-group mb-3">
+                            <label for="Username" class="font-weight-bold">Username</label>
+                            <input type="text" id="Username" name="Username" class="form-control" placeholder="Enter your username" required />
+                        </div>
+                        <div class="form-group mb-3">
+                            <label for="Email" class="font-weight-bold">Email</label>
+                            <input type="email" id="Email" name="Email" class="form-control" placeholder="Enter your email" required />
+                        </div>
+                        <div class="form-group mb-4">
+                            <label for="Password" class="font-weight-bold">Password</label>
+                            <input type="password" id="Password" name="Password" class="form-control" placeholder="Enter your password" required />
+                        </div>
+                        <div class="form-group text-center">
+                            <button type="submit" class="btn btn-primary btn-lg shadow-lg w-100">
+                                Register
+                            </button>
+                        </div>
+                        <div class="text-center mt-3">
+                            <p>Already have an account? <a href="@Url.Action("Login", "User")" class="text-primary">Login here</a></p>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Optional Custom CSS for styling -->
+<style>
+    body {
+        background: linear-gradient(to right, #e1d7d6, #ada083);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .register-card {
+        border-radius: 25px;
+        background-color: #ffffff; /* Set background color to white */
+        opacity: 0.98; /* Set opacity to make it slightly transparent */
+        transition: all 0.5s ease-in-out; /* Transition effect for hover */
+        padding: 30px; /* Increased padding for more space inside */
+        margin-top: 20px;
+        height: 500px; /* Increased height of the card */
+        width: 800px; /* Increased width of the card */
+    }
+
+    .register-card:hover {
+        transform: scale(1.05); /* Slight zoom effect on hover */
+        opacity: 1; /* Full opacity on hover */
+    }
+
+    .card-header h4 {
+        font-size: 26px;
+        font-weight: 600;
+    }
+
+    .btn-primary {
+        background: linear-gradient(to right, #1d2671, #c33764);
+        border: none;
+        transition: all 0.3s ease;
+    }
+
+    .btn-primary:hover {
+        background: linear-gradient(to right, #f12711, #f5af19);
+        transform: translateY(-3px); /* Hover effect for the button */
+    }
+
+    .alert {
+        border-radius: 10px;
+        font-size: 16px;
+        padding: 10px;
+    }
+
+    .form-group input {
+        border-radius: 5px;
+        padding: 12px;
+        font-size: 16px;
+    }
+
+    .form-group label {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    .card-body {
+        background: rgba(255, 255, 255, 0.95); /* Light background for card body */
+        border-radius: 15px;
+    }
+
+    .btn-primary {
+        font-weight: bold;
+    }
+
+    /* Responsive Adjustments */
+    media (max-width: 768px) {
+        .register-card {
+            padding: 25px;
+            height: 480px; /* Adjust height for smaller screens */
+        }
+
+        .card-header h4 {
+            font-size: 22px;
+        }
+
+        .form-group input {
+            font-size: 14px;
+        }
+
+        .btn-primary {
+            font-size: 16px;
+        }
+    }
+</style>

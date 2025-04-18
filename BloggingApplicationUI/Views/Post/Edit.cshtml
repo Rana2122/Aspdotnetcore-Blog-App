@@ -1,0 +1,31 @@
+﻿@model BloggingApplicationUI.Models.Post
+
+<div class="container mt-5">
+    <div class="text-center mb-4">
+        <h2 class="text-primary font-weight-bold">Edit Post</h2>
+        <p class="text-muted">Make changes to the content of your post</p>
+    </div>
+
+    <div class="card shadow-lg border-0 rounded-lg">
+        <div class="card-body">
+            <form asp-action="Edit" method="post">
+
+                <div class="form-group mb-4">
+                    <label for="Title" class="font-weight-bold">Title</label>
+                    <input type="text" class="form-control form-control-lg" id="Title" name="Title" value="@Model.Title" placeholder="Enter the post title" required />
+                </div>
+
+                <div class="form-group mb-4">
+                    <label for="Content" class="font-weight-bold">Content</label>
+                    <textarea class="form-control form-control-lg" id="Content" name="Content" rows="8" placeholder="Update your post content here..." required>@Model.Content</textarea>
+                </div>
+
+                <div class="text-center mt-4">
+                    <button type="submit" class="btn btn-danger btn-lg shadow-lg px-5 py-3 rounded-pill">
+                        <i class="fas fa-save mr-2"></i> Save Changes
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
